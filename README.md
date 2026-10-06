@@ -1,2 +1,5 @@
 # GitHub-Demo-F26
-GitHub Workshop - Fall 2026 - Sophie Barr
+
+Welcome to GitHub!
+
+Add your name here: 
