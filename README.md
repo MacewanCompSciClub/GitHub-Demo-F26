@@ -2,4 +2,4 @@
 
 Welcome to GitHub!
 
-Add your name here: 
+Add your name here: Sophie
